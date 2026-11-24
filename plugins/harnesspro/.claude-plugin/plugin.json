@@ -1,0 +1,7 @@
+{
+  "name": "harnesspro",
+  "version": "1.0.0",
+  "description": "Build, test and run Solana trading agents on HarnessPro from your AI",
+  "author": { "name": "HarnessPro" },
+  "homepage": "https://harnesspro.ai"
+}

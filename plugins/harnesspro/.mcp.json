@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "harnesspro": { "type": "http", "url": "https://api.harnesspro.ai/mcp" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "harnesspro",
+  "owner": {
+    "name": "HarnessPro"
+  },
+  "metadata": {
+    "description": "The HarnessPro plugin for Claude: build and run Solana trading agents"
+  },
+  "plugins": [
+    {
+      "name": "harnesspro",
+      "description": "Build, test and run Solana trading agents on HarnessPro from your AI",
+      "source": "./plugins/harnesspro"
+    }
+  ]
+}
